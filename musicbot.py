@@ -7,7 +7,7 @@ import youtube_dl
 from discord.ext import commands
 from discord.utils import get
 
-TOKEN = ''
+TOKEN = '' #add your token here
 BOT_PREFIX = '/'
 
 bot = commands.Bot(command_prefix=BOT_PREFIX)
